@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1647859200">
+  <File Type="BITSTR-BMM" Name="four_one_mux_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="four_one_mux_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="four_one_mux_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="four_one_mux_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="four_one_mux.tcl"/>
+  <File Type="OPT-TIMING" Name="four_one_mux_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="four_one_mux_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="four_one_mux_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="four_one_mux_reports.tcl"/>
+  <File Type="OPT-DRC" Name="four_one_mux_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="four_one_mux.hwdef"/>
+  <File Type="PWROPT-DCP" Name="four_one_mux_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="four_one_mux_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="four_one_mux_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="four_one_mux_placed.dcp"/>
+  <File Type="PLACE-IO" Name="four_one_mux_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="four_one_mux_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="four_one_mux_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="four_one_mux_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="four_one_mux_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="four_one_mux_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="four_one_mux_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="four_one_mux_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="four_one_mux_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="four_one_mux.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="four_one_mux_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="four_one_mux_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="four_one_mux_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="four_one_mux.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="four_one_mux_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="four_one_mux_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="four_one_mux_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="four_one_mux_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="four_one_mux_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="four_one_mux_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="four_one_mux_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="four_one_mux.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="four_one_mux_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="four_one_mux_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="four_one_mux_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="four_one_mux_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="four_one_mux_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="four_one_mux_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="four_one_mux_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="four_one_mux_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="four_one_mux_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="four_one_mux_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="four_one_mux_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="four_one_mux_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="four_one_mux_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="four_one_mux_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="four_one_mux_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="four_one_mux_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="four_one_mux_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="four_one_mux_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="four_one_mux_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="four_one_mux_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="four_one_mux_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="four_one_mux.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="four_one_mux_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="four_one_mux.rbt"/>
+  <File Type="BITSTR-NKY" Name="four_one_mux.nky"/>
+  <File Type="PDI-FILE" Name="four_one_mux.pdi"/>
+  <File Type="RCFI_FILE" Name="four_one_mux.rcfi"/>
+  <File Type="CFI_FILE" Name="four_one_mux.cfi"/>
+  <File Type="RNPI_FILE" Name="four_one_mux.rnpi"/>
+  <File Type="NPI_FILE" Name="four_one_mux.npi"/>
+  <File Type="RBD_FILE" Name="four_one_mux.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="four_one_mux.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="four_one_mux.sysdef"/>
+  <File Type="BG-BGN" Name="four_one_mux.bgn"/>
+  <File Type="BG-DRC" Name="four_one_mux.drc"/>
+  <File Type="RDI-RDI" Name="four_one_mux.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/two_one_mux.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/four_one_mux.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/two_input_decoder.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="four_one_mux"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/REP_2.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/constrs_1/new/REP_2_0.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
